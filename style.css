@@ -6,3 +6,6 @@ header .brand{font-size:0;letter-spacing:0;min-width:155px;min-height:62px;displ
 
 /* Larger current logo in top navigation; old hero logo removed */
 header .brand{min-width:230px;min-height:92px;flex-shrink:0}header .brand:after{width:230px;height:95px}header{padding-top:12px;padding-bottom:12px}.hero-home .brand-mark{display:none!important}@media(max-width:750px){header .brand{min-width:180px;min-height:75px}header .brand:after{width:180px;height:76px}}
+
+/* Larger Crescendo Events masthead logo */
+header .brand{min-width:320px;min-height:128px}header .brand:after{width:320px;height:130px}header{padding-top:8px;padding-bottom:8px}@media(max-width:900px){header .brand{min-width:235px;min-height:95px}header .brand:after{width:235px;height:98px}}@media(max-width:750px){header .brand{min-width:215px;min-height:88px}header .brand:after{width:215px;height:90px}}
